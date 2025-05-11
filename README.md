@@ -37,6 +37,7 @@ Farmers_scheme_chatbot/
 ├── credentials.yml         # Credentials for external services
 ├── domain.yml              # Domain definition including intents, entities, slots, and responses
 ├── endpoints.yml           # Configuration for action endpoints
+├── final_mini_project_report.pdf  # Comprehensive project report
 └── README.md               # Project documentation
 ```
 
@@ -102,6 +103,14 @@ To run the test cases and ensure the chatbot's functionalities are working as ex
 ```bash
 rasa test
 ```
+
+---
+
+## Project Report
+
+For a detailed understanding of the project's objectives, design, implementation, and results, please refer to the comprehensive project report:
+
+[final_mini_project_report.pdf](https://github.com/SudharsaaX/Farmers_scheme_chatbot/blob/main/final_mini_project_report.pdf)
 
 ---
 

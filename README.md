@@ -132,12 +132,6 @@ git push origin feature/YourFeature
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 Special thanks to [@Tamil157](https://github.com/Tamil157) for valuable support and contributions to this project.
